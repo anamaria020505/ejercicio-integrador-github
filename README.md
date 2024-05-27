@@ -8,7 +8,7 @@ El objetivo de este proyecto es mejorar la gestión de relaciones con los client
    - Tareas:
      - Identificar los requisitos específicos para la actualización.
      - Coordinar con los equipos de desarrollo y soporte.
-     - Establecer un plan detallado.
+     
 
 2. **Implementación de Nuevas Funciones (Prioridad Media)**
    - Fecha límite: 4 de junio
